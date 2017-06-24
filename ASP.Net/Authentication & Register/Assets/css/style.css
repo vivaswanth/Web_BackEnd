@@ -1,0 +1,22 @@
+.login
+{
+	margin-top: 10%;
+	margin-left: 35%;
+	color: #fff;
+	width: 100%;
+
+}
+
+.well
+{
+	background-color: rgba(25, 255, 25, 0.9);
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+
