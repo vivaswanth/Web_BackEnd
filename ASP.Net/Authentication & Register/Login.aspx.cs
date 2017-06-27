@@ -25,7 +25,7 @@ public partial class Login : System.Web.UI.Page
         you have to enter them by specifying username = "your username", password = "your password"
     */
 
-    SqlConnection con = new SqlConnection("server=DESKTOP-30COJRN; Initial catalog=multibanking; Integrated Security=true;");
+    SqlConnection con = new SqlConnection("server=urserver; Initial catalog=urdb; Integrated Security=true;");
 
     protected void Page_Load(object sender, EventArgs e)
     {
